@@ -1,0 +1,7 @@
+{
+  "name": "porjetonovo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
